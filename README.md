@@ -6,3 +6,4 @@ Un blog para el curso de Git y GitHub de platzi
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * Incluye ejemplos en windows linux y mac
+* Disponible para todas las edades
